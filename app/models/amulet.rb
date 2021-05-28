@@ -1,0 +1,2 @@
+class Amulet < ApplicationRecord
+end

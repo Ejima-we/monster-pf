@@ -1,0 +1,2 @@
+class Ornament < ApplicationRecord
+end

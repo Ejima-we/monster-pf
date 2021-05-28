@@ -1,0 +1,2 @@
+class EquipmentPostRelation < ApplicationRecord
+end
